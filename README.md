@@ -12,6 +12,13 @@
 https://github.com/gaiyi7788/awesome-legged-locomotion-learning
 https://leggedrobotics.github.io/rl-perceptiveloco/  
 
+## 相关公众号推文
+- https://mp.weixin.qq.com/s/2bQTuwE-k6ukp--XHXIzMg
+- https://new.qq.com/rain/a/20231106A02OZ600
+- https://new.qq.com/rain/a/20231106A03NM400
+- https://new.qq.com/rain/a/20231107A07QZB00
+- https://mp.weixin.qq.com/s/KXIbdd8bhwV5aKSiLmYdbQ
+
 ## 其他参考文献
 - 面向机器人系统的虚实迁移强化学习综述  https://www.jos.org.cn/jos/article/pdf/7006?file_name=A8D77C701D04C881986C5895EDB6C339A3BE5400BD8857B2B900220CEC7F485F7B70E122E4EF8033&open_type=self
 - 2022 机器人学习前沿与落地进展到哪了 https://picture.iczhiku.com/weixin/message1645852990035.html 
@@ -22,10 +29,3 @@ https://leggedrobotics.github.io/rl-perceptiveloco/
 - http://kzyjc.alljournals.cn/html/2022/2/20220203.htm
 - https://arxiv.org/abs/2102.02915
 - https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/
-
-## 相关公众号推文
-- https://mp.weixin.qq.com/s/2bQTuwE-k6ukp--XHXIzMg
-- https://new.qq.com/rain/a/20231106A02OZ600
-- https://new.qq.com/rain/a/20231106A03NM400
-- https://new.qq.com/rain/a/20231107A07QZB00
-- https://mp.weixin.qq.com/s/KXIbdd8bhwV5aKSiLmYdbQ
