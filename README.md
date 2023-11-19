@@ -1,2 +1,2 @@
 # Robot-Control
-✅ 👕 Support for diverse range of materials and their coupling
+https://github.com/Genesis-Embodied-AI/Genesis
